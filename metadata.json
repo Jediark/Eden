@@ -1,0 +1,7 @@
+{
+  "name": "Eden – The Place of Refuge",
+  "description": "A digital sanctuary providing peace, scripture, and community through celestial-themed design and AI-enhanced biblical insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
